@@ -276,6 +276,7 @@ def main():
         <div style='text-align: center; color: gray;'>
             <p>🌱 CISHK Garden Harvest Forecaster | Powered by NASA POWER & Open-Meteo APIs</p>
             <p>Data sources: Historical weather (2015-present) + 7-day forecast</p>
+            <p style='margin-top: 10px; font-size: 0.9em;'>Zack Tudor 2026 ©</p>
         </div>
         """,
         unsafe_allow_html=True
